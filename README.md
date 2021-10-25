@@ -6,9 +6,8 @@ tensorflow version 1.12.0
 stable cpu
 ```
 
-### download catdog dataset https://drive.google.com/file/d/1YfOsfS7kO6HJeA7hzmJ4vHmCV3MavyXh/view
-
-### extract file dataset and move folder trainingCatDog to .../tensorflow_model_for_android_ios/tf_files
+download catdog dataset https://drive.google.com/file/d/1YfOsfS7kO6HJeA7hzmJ4vHmCV3MavyXh/view
+extract file dataset and move folder trainingCatDog to .../tensorflow_model_for_android_ios/tf_files
 
 ## use terminal windows
 
