@@ -43,7 +43,7 @@ python -m scripts.label_image --graph=tf_files/retrained_graph.pb --image=tf_fil
 
 ### changes the current directory to project
 ```
-cd .../tensorflow-for-poets-2
+cd .../tensorflow_model_for_android_ios
 ```
 
 ### covert file .pb to .lite
